@@ -1,4 +1,5 @@
 # Oficina de Git e Git Hub da Preta Lab | Ciclo 14 | Ano 2025
 
 ## Primeira aula introdutória sobre Git 
-A primeira aula apresentou o conteito de Git e a sua importância na comunidade de desenvolvedores (as)
+A primeira aula apresentou o conteito de Git e a sua importância na comunidade de desenvolvedores (as).
+Aprendendo os primeiros comandos : git status, git add, git diff, git commit e git log.
