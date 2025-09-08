@@ -6,3 +6,4 @@ Aprendendo os primeiros comandos : git status, git add, git diff, git commit e g
 Para fixar os comando fizemos alguns exercicios e fixação do ciclo de vida.git
 
 ## Segunda Semana de aula
+## Aula 1 - Branches e fluxo
